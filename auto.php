@@ -1,7 +1,6 @@
 ﻿<?php
-class Auto 
+class Auto
 {
-
     public $marke;
     public $ps;
     public $color;
