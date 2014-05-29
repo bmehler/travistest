@@ -16,7 +16,7 @@ class Auto {
 		return $this->marke;
 	}
 	
-	function getPs() {
+	function getPs(){
 		return $this->ps;
 	}
 	
