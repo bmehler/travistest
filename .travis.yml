@@ -7,5 +7,5 @@ script:
   - phpunit
   - pyrus install pear/PHP_CodeSniffer
   - phpenv rehash
-  - phpcs help
+  - phpcs CodeSniffer.php CodeSniffer --standard=PEAR --report=summary --ignore=*/tests/* -np
  

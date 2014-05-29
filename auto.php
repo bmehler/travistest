@@ -20,7 +20,7 @@ class Auto {
 		return $this->ps;
 	}
 	
-	function getColor() {
+	function getColor(){
 		return $this->color;
 	}
 }
