@@ -5,7 +5,6 @@ class Auto
     public $ps;
     public $color;
 
-
     function __construct($marke = 'bmw', $ps = '55', $color = 'blau')
     {
         $this->marke 	= $marke;
