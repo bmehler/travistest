@@ -19,5 +19,9 @@ class Auto {
 	function getPs() {
 		return $this->ps;
 	}
+	
+	function getColor(){
+		return $this->color;
+	}
 }
 ?>
